@@ -1,4 +1,4 @@
 streamlit==1.18.1
 folium==0.13.0
-streamlit_folium=0.18.0
+streamlit_folium==0.18.0
 haversine==2.8.0
